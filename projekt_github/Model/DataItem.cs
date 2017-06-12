@@ -10,7 +10,7 @@
 
         public DataItem(string title)
         {
-            Title = title;
+            Title = title; //dodany komentarz
         }
     }
 }
